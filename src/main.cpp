@@ -30,7 +30,6 @@ void setup() {
     pinMode(VGABLUE, OUTPUT);
     pinMode(VGASYNC, OUTPUT);
     pinMode(VGAVSYNC, OUTPUT);
-
 }
 
 void loop() {
